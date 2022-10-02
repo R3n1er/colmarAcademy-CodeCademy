@@ -7,3 +7,7 @@ For this project we will provide you with wireframes. A wireframe is a document 
 For this project you will implement the site specified by the wireframes and make all remaining design decisions to complete the site. You can find the wireframes for this project here and all of the necessary assets for the project here.
 
 Good luck!
+
+## Spec and wireframes
+
+<img src="https://content.codecademy.com/courses/freelance-1/capstone-2/colmar-academy-spec.png?_gl=1*kxmsnq*_ga*NTIzMzQ4NTI2Ni4xNjYyOTExMjMy*_ga_3LRZM6TM9L*MTY2NDc0OTI4Mi4xNi4xLjE2NjQ3NTAwOTMuMzUuMC4w">
