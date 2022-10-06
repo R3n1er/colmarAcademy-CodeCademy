@@ -8,3 +8,20 @@ body {
 
 }
 
+header {
+    height: 64px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul{
+    list-style: none;
+}
+
+.logo{
+    align-items: center;
+    padding-left: 24px;
+    height: 32px;
+}
